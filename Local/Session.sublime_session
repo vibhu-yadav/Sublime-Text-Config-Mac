@@ -1,0 +1,330 @@
+{
+	"file_history":
+	[
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"next_update_check": 1679769816,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			464.0,
+			-797.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGByJYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlct0ICQoLDA0ODxAREhMUFRYXFxkZGxwdHh8gIV1OU1dpbmRvd0ZyYW1lV05TVGl0bGVXTlNJc0tleVhOU0lzTWFpbl8QEE5TRmlyc3RSZXNwb25kZXJfEBdOU1VubWFuYWdlZFdpbmRvd0ZyYW1lMltOU0NsYXNzTmFtZV8QEF9OU1dpbmRvd0xheW91dHNbTlNTdHlsZU1hc2tfECZOU1dpbmRvd01hbmFnZW1lbnRQZXJzaXN0ZW50SWRlbnRpZmllcl8QGV9OU1dpbmRvd1Jlc2l6ZUdlbmVyYXRpb25fEBNOU1dpbmRvd1dvcmtzcGFjZUlEXk5TV2luZG93TnVtYmVygAKAAwkJgACAAIAEgAYQD4ABEACABREzh68QECMkJSYnKCkyODk6QEdISUxVJG51bGxfECQ0QUFGOUFERS1DNjMxLTRCMDItOTM2Qy1CMUJEOUIxQjE1RERfEB40NjQgMTk3IDgwMCA2MjggMCAwIDE3MjggMTA3OSBYdW50aXRsZWRYUFhXaW5kb3dQ0yorLC0vMVdOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoS6AB6EwgAuAD9MzNCw1NjdfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWACIAJgApfECQzN0Q4ODMyQS0yRDY2LTAyQ0EtQjlGNy04RjMwQTMwMUIyMzBcezE3MjgsIDExMTd90js8PT5aJGNsYXNzbmFtZVgkY2xhc3Nlc15OU1NjcmVlbkxheW91dKI9P1hOU09iamVjdNRBQixDRB9FRl8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWVfEB5OU1dpbmRvd0xheW91dFJlc2l6ZUdlbmVyYXRpb25fEBlOU1dpbmRvd0xheW91dFdpbmRvd0ZyYW1lgA2ADoAMXxAYe3s0NjQsIDE5N30sIHs4MDAsIDYyOH19XxAWe3swLCAwfSwgezE3MjgsIDEwNzl9fdI7PEpLXk5TV2luZG93TGF5b3V0oko/0js8TU5cTlNEaWN0aW9uYXJ5ok0/AAgAEQAaACQAKQAyADcASQBkAHIAegCCAIsAngC4AMQA1wDjAQwBKAE+AU0BTwFRAVIBUwFVAVcBWQFbAV0BXwFhAWMBZgF5AX8BpgHHAdAB2QHaAeEB6QH0AfsB/QH/AgECAwIFAgwCJwI8Aj4CQAJCAmkCdgJ7AoYCjwKeAqECqgKzAtUC9gMSAxQDFgMYAzMDTANRA2ADYwNoA3UAAAAAAAACAQAAAAAAAABPAAAAAAAAAAAAAAAAAAADeA",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
